@@ -720,7 +720,7 @@ body {
 		height: 100px;
 		position: absolute;
 		right: 20px;
-		top: 20px;
+		top: -5px;
 		z-index: 11;
 	}
 	.header__nav-close-line {
