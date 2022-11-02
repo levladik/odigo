@@ -29,6 +29,11 @@ button::-moz-focus-inner {
 ul li {
 	list-style: none;
 }
+img {
+	vertical-align: top;
+	max-width: 100%;
+	height: auto;
+}
 
 /* lato-regular - latin */
 @font-face {
