@@ -1,1 +1,1 @@
-[Visit Odigo](https://levladik.github.io/odigo/)
+https://levladik.github.io/odigo/
